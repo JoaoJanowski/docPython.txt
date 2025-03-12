@@ -1,0 +1,26 @@
+nome = 'Joao_Janowski' - 
+cpf = '11896144697' 
+senha = '12345678' 
+telefone = '41988333065'
+endereco = 'Rua Flores, 129'
+descricao = 'Dados dos usuarios.'
+nome = 'Wagner_Love'
+especializacao = 'terapia_cognitivo_comportamental'
+tempo sessao = '50_minutos'
+telefone = '41988334494'
+atributos = 'TDAH'
+necessidades = 'fatores_geneticos'
+causa = 'desatencao'
+sintomas tratamento = 'terapia_comportamental'
+diagnostico = 'psicologos'
+nome = 'Rafael_Silva'
+necessidade_especial = 'autismo'
+descricao = 'Meu filho tem autismo'
+nome = 'Joice_Lara'
+conta = '0000.1111.2222.3333'
+valor = '50_reais'
+
+
+
+
+
